@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "siteTitle": "Uma Bhargavi | CMA & Financial Analyst",
+    "siteDescription": "Cost and Management Accountant | Financial Analysis Enthusiast. Turning financial data into strategic insights.",
+    "siteUrl": "https://umabhargavi.github.io",
+    "resumeUrl": "resume.pdf"
+  },
+  "hero": {
+    "name": "Uma Bhargavi",
+    "title": "Cost and Management Accountant  |  Financial Analysis Enthusiast",
+    "tagline": "Turning Financial Data into Strategic Insights",
+    "location": "India",
+    "email": "your.email@gmail.com",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "photo": ""
+  },
+  "about": {
+    "paragraphs": [
+      "I am a qualified Cost and Management Accountant (CMA) with strong expertise in financial accounting, cost management, budgeting, and financial analysis. My foundation in management accounting gives me a unique lens to evaluate business performance and identify opportunities for growth.",
+      "I am passionate about transforming complex financial data into clear, strategic insights that drive informed decision-making. With a keen interest in finance analytics, forecasting, and AI-powered financial tools, I stay at the forefront of how technology is reshaping the finance profession.",
+      "My long-term goal is to contribute to organizations in financial analysis, strategic finance, or consulting roles — helping leadership navigate decisions with confidence and precision."
+    ],
+    "highlights": [
+      { "icon": "fa-chart-line", "label": "Financial Analysis", "value": "Advanced" },
+      { "icon": "fa-calculator", "label": "Cost Accounting", "value": "Expert" },
+      { "icon": "fa-brain", "label": "Strategic Thinking", "value": "Strong" },
+      { "icon": "fa-robot", "label": "AI Finance Tools", "value": "Proficient" }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Finance & Accounting",
+      "icon": "fa-landmark",
+      "items": ["Financial Accounting", "Cost Accounting", "Budgeting", "Variance Analysis", "Financial Reporting", "Cost Control", "Management Accounting"]
+    },
+    {
+      "category": "Analytics & Analysis",
+      "icon": "fa-chart-bar",
+      "items": ["Financial Analysis", "Trend Analysis", "Forecasting", "Business Performance Analysis", "Profitability Analysis", "KPI Tracking"]
+    },
+    {
+      "category": "Tools & Technology",
+      "icon": "fa-tools",
+      "items": ["Microsoft Excel", "Financial Modeling", "PowerPoint", "Data Analysis", "AI Tools for Finance", "Dashboard Reporting"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Manufacturing Cost Analysis",
+      "category": "Cost Accounting",
+      "description": "Analyzed the complete cost structure of a manufacturing company and identified key cost drivers affecting profitability. Delivered actionable recommendations that highlighted areas for cost reduction and operational efficiency.",
+      "tools": ["Microsoft Excel", "Cost Analysis", "Variance Analysis"],
+      "skills": ["Cost Accounting", "Financial Reporting", "Business Analysis"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 2,
+      "title": "3-Year Financial Forecast Model",
+      "category": "Financial Modeling",
+      "description": "Built a comprehensive financial forecasting model projecting revenue, operating expenses, and net profit trends over a 3-year horizon. The model incorporated scenario analysis for optimistic, base, and pessimistic outcomes.",
+      "tools": ["Excel", "Financial Modeling", "Scenario Analysis"],
+      "skills": ["Forecasting", "Trend Analysis", "Financial Analysis"],
+      "image": "",
+      "link": ""
+    },
+    {
+      "id": 3,
+      "title": "Automotive Industry Financial Study",
+      "category": "Industry Analysis",
+      "description": "Conducted an in-depth financial analysis of an automotive company covering cost efficiency ratios, profitability metrics, and operational performance benchmarks. Presented findings in a structured report with visual dashboards.",
+      "tools": ["Excel", "PowerPoint", "Ratio Analysis"],
+      "skills": ["Financial Analysis", "Business Analysis", "Profitability Analysis"],
+      "image": "",
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Cost and Management Accountant (CMA)",
+      "institution": "Institute of Cost Accountants of India",
+      "period": "Qualified",
+      "status": "Completed",
+      "description": "Comprehensive qualification covering cost accounting, management accounting, financial management, taxation, and strategic management."
+    },
+    {
+      "degree": "MA Sociology",
+      "institution": "Indira Gandhi National Open University (IGNOU)",
+      "period": "Pursuing",
+      "status": "In Progress",
+      "description": "Studying social systems, research methodology, and organizational behaviour — enhancing my ability to understand and communicate within diverse professional environments."
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Lean Six Sigma Yellow Belt",
+      "issuer": "International Lean Six Sigma Institute",
+      "status": "Pursuing",
+      "icon": "fa-award",
+      "year": "2024"
+    }
+  ],
+  "careerInterests": [
+    { "icon": "fa-chart-pie", "title": "Financial Analysis", "desc": "Analyzing financial statements and data to generate actionable business insights." },
+    { "icon": "fa-building-columns", "title": "Corporate Finance", "desc": "Supporting capital allocation, investment decisions, and financial planning." },
+    { "icon": "fa-chess", "title": "Strategic Finance", "desc": "Bridging finance and strategy to guide long-term organizational direction." },
+    { "icon": "fa-database", "title": "Business Analytics", "desc": "Using data and analytics tools to drive financial and operational performance." }
+  ],
+  "portfolio": [
+    { "icon": "fa-linkedin", "title": "LinkedIn Posts", "desc": "Financial analysis insights and industry commentary shared on LinkedIn.", "link": "" },
+    { "icon": "fa-file-alt", "title": "Case Studies", "desc": "In-depth financial case studies and business analysis reports.", "link": "" },
+    { "icon": "fa-chart-area", "title": "Financial Dashboards", "desc": "Excel and data visualization dashboards built for real scenarios.", "link": "" },
+    { "icon": "fa-book-open", "title": "Research Work", "desc": "Research papers and notes on finance, costing, and analytics topics.", "link": "" }
+  ],
+  "contact": {
+    "email": "your.email@gmail.com",
+    "linkedin": "https://linkedin.com/in/your-profile",
+    "location": "India",
+    "formspreeId": "YOUR_FORMSPREE_ID"
+  },
+  "footer": {
+    "tagline": "Driven by curiosity, analysis, and continuous learning.",
+    "copyright": "Uma Bhargavi"
+  }
+}
