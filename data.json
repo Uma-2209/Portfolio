@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "siteTitle": "Uma Bhargavi | CMA & Financial Analyst",
+    "siteDescription": "Cost and Management Accountant | Financial Analysis Enthusiast based in Nellore, India.",
+    "siteUrl": "https://uma-2209.github.io/Portfolio",
+    "resumeUrl": "resume.pdf"
+  },
+  "hero": {
+    "name": "Uma Bhargavi",
+    "title": "Cost and Management Accountant  |  Financial Analysis Enthusiast",
+    "tagline": "Turning Financial Data into Strategic Insights",
+    "location": "Nellore, India",
+    "email": "umabhargavi090602@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/uma-bhargavi-balaji-9a180032a",
+    "photo": "photo.jpg"
+  },
+  "about": {
+    "paragraphs": [
+      "I am a qualified Cost and Management Accountant (CMA) with strong expertise in financial accounting, cost management, budgeting, and financial analysis. My foundation in management accounting gives me a unique lens to evaluate business performance and identify opportunities for growth.",
+      "I am passionate about transforming complex financial data into clear, strategic insights that drive informed decision-making. With a keen interest in finance analytics, macroeconomic research, and AI-powered financial tools, I stay at the forefront of how technology is reshaping the finance profession.",
+      "My long-term goal is to contribute to organizations in financial analysis, strategic finance, or consulting roles — helping leadership navigate decisions with confidence and precision."
+    ],
+    "highlights": [
+      { "icon": "fa-chart-line", "label": "Financial Analysis", "value": "Advanced" },
+      { "icon": "fa-calculator", "label": "Cost Accounting", "value": "Expert" },
+      { "icon": "fa-brain", "label": "Strategic Thinking", "value": "Strong" },
+      { "icon": "fa-robot", "label": "AI Finance Tools", "value": "Proficient" }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Finance & Accounting",
+      "icon": "fa-landmark",
+      "items": ["Financial Accounting", "Cost Accounting", "Budgeting", "Variance Analysis", "Financial Reporting", "Cost Control", "Management Accounting"]
+    },
+    {
+      "category": "Analytics & Analysis",
+      "icon": "fa-chart-bar",
+      "items": ["Financial Analysis", "Trend Analysis", "Forecasting", "Macro-Economic Analysis", "Sensitivity Analysis", "KPI Tracking", "Margin Analysis"]
+    },
+    {
+      "category": "Tools & Technology",
+      "icon": "fa-tools",
+      "items": ["Microsoft Excel", "Canva", "PowerPoint", "Perplexity AI", "AI Tools for Finance", "Dashboard Reporting", "Data Visualization"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Crude Oil Volatility & Margin Sensitivity Analysis",
+      "category": "Macro-Financial Research",
+      "description": "Conducted a comprehensive Q4 FY26 analysis monitoring macro-critical variables and supply chain health following Strait of Hormuz disruptions. Analyzed Brent Crude spot prices ($83.99), USD/INR rate (₹91.63), and India's import cover (42 days). Key finding: every $10/bbl rise widens India's CAD by ~0.5% of GDP. Identified Aviation and Paints as most vulnerable sectors. Macro outlook: Stressed/High Risk.",
+      "tools": ["Perplexity AI", "Canva", "Sensitivity Analysis", "Financial Modeling"],
+      "skills": ["Macro-Economic Analysis", "Financial Analysis", "Margin Sensitivity", "Risk Assessment"],
+      "image": "project1.png",
+      "link": ""
+    }
+  ],
+  "education": [
+    {
+      "degree": "Cost and Management Accountant (CMA)",
+      "institution": "Institute of Cost Accountants of India",
+      "period": "Qualified",
+      "status": "Completed",
+      "description": "Comprehensive qualification covering cost accounting, management accounting, financial management, taxation, and strategic management."
+    },
+    {
+      "degree": "Bachelor of Commerce (B.Com)",
+      "institution": "Vikrama Simhapuri University",
+      "period": "Graduated",
+      "status": "Completed",
+      "description": "Studied core commerce subjects including financial accounting, business economics, corporate law, and taxation, building a strong foundation for the accounting profession."
+    },
+    {
+      "degree": "MA Sociology",
+      "institution": "Indira Gandhi National Open University (IGNOU)",
+      "period": "Pursuing",
+      "status": "In Progress",
+      "description": "Studying social systems, research methodology, and organisational behaviour."
+    }
+  ],
+  "contact": {
+    "email": "umabhargavi090602@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/uma-bhargavi-balaji-9a180032a",
+    "location": "Nellore, Andhra Pradesh, India",
+    "formspreeId": "YOUR_FORMSPREE_ID"
+  },
+  "footer": {
+    "tagline": "Driven by curiosity, analysis, and continuous learning.",
+    "copyright": "Uma Bhargavi"
+  }
+}
