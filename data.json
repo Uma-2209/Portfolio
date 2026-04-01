@@ -3,7 +3,7 @@
     "siteTitle": "Uma Bhargavi | CMA & Financial Analyst",
     "siteDescription": "Cost and Management Accountant | Financial Analysis Enthusiast based in Nellore, India.",
     "siteUrl": "https://uma-2209.github.io/Portfolio",
-    "resumeUrl": "resume.pdf"
+    "resumeUrl": "resume-1.pdf"
   },
   "hero": {
     "name": "Uma Bhargavi",
@@ -41,7 +41,7 @@
     {
       "category": "Tools & Technology",
       "icon": "fa-tools",
-      "items": ["Microsoft Excel", "Canva", "PowerPoint", "Perplexity AI", "AI Tools for Finance", "Dashboard Reporting", "Data Visualization"]
+      "items": ["Microsoft Excel", "Canva", "PowerPoint", "Perplexity AI", "AI Tools for Finance", "Dashboard Reporting", "Data Visualization", "Python", "Streamlit"]
     }
   ],
   "projects": [
@@ -53,7 +53,27 @@
       "tools": ["Perplexity AI", "Canva", "Sensitivity Analysis", "Financial Modeling"],
       "skills": ["Macro-Economic Analysis", "Financial Analysis", "Margin Sensitivity", "Risk Assessment"],
       "image": "project1.png",
-      "link": ""
+      "link": "project1.png"
+    },
+    {
+      "id": 2,
+      "title": "CMA Cost Analysis Tool",
+      "category": "Financial Analysis",
+      "description": "Built a live interactive cost analysis web app using Python and Streamlit. Uploads CSV data, auto-calculates Total Cost and Cost Per Unit, and displays an interactive bar chart. Deployed live on Streamlit Cloud.",
+      "tools": ["Python", "Streamlit", "Pandas", "Plotly"],
+      "skills": ["Cost Management", "Data Visualization", "Financial Analysis"],
+      "image": "",
+      "link": "https://uma22-design-cost-tool-app-7axwaw.streamlit.app"
+    },
+    {
+      "id": 3,
+      "title": "Company Financial Analyzer",
+      "category": "Financial Analysis",
+      "description": "Built a live AI-powered financial analyzer. Type any company ticker to get real-time revenue, profit margins, and 1-year stock trend. Upload any company's Annual Report PDF and get instant AI-generated insights on costs, revenue trends, and strategic recommendations.",
+      "tools": ["Python", "Streamlit", "yFinance", "Gemini AI", "PyPDF2"],
+      "skills": ["Financial Analysis", "AI Tools", "Data Visualization", "Annual Report Analysis"],
+      "image": "",
+      "link": "https://finance-tool-srvn9fv9fkrkswt4smsi59.streamlit.app"
     }
   ],
   "education": [
