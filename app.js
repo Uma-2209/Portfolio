@@ -12,7 +12,7 @@ const PORTFOLIO_DATA = {
     "location": "Nellore, India",
     "email": "umabhargavi090602@gmail.com",
     "linkedin": "https://www.linkedin.com/in/uma-bhargavi-balaji-9a180032a",
-    "photo": "photo.jpg"
+    "photo": "photo.jpeg"
   },
   "about": {
     "paragraphs": [
@@ -62,7 +62,7 @@ const PORTFOLIO_DATA = {
       "description": "Built a live interactive cost analysis web app using Python and Streamlit. Uploads CSV data, auto-calculates Total Cost and Cost Per Unit, and displays an interactive bar chart. Deployed live on Streamlit Cloud.",
       "tools": ["Python", "Streamlit", "Pandas", "Plotly"],
       "skills": ["Cost Management", "Data Visualization", "Financial Analysis"],
-      "image": "",
+      "image": "project2.jpeg",
       "link": "https://uma22-design-cost-tool-app-7axwaw.streamlit.app"
     },
     {
@@ -72,7 +72,7 @@ const PORTFOLIO_DATA = {
       "description": "AI-powered financial analyzer. Type any company ticker for real-time revenue, profit margins, and stock trends. Upload Annual Report PDF for instant AI-generated cost and strategy insights.",
       "tools": ["Python", "Streamlit", "yFinance", "Gemini AI", "PyPDF2"],
       "skills": ["Financial Analysis", "AI Tools", "Data Visualization"],
-      "image": "",
+      "image": "project3.jpeg",
       "link": "https://finance-tool-srvn9fv9fkrkswt4smsi59.streamlit.app"
     }
   ],
