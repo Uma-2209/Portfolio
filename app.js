@@ -12,7 +12,7 @@ const PORTFOLIO_DATA = {
     "siteTitle": "Uma Bhargavi | CMA & Financial Analyst",
     "siteDescription": "Cost and Management Accountant | Financial Analysis Enthusiast based in Nellore, India.",
     "siteUrl": "https://uma-2209.github.io/Portfolio",
-    "resumeUrl": "resume.pdf"
+    "resumeUrl": "uma_bhargavi_resume.pdf"
   },
   "hero": {
     "name": "Uma Bhargavi",
@@ -58,11 +58,31 @@ const PORTFOLIO_DATA = {
       "id": 1,
       "title": "Crude Oil Volatility & Margin Sensitivity Analysis",
       "category": "Macro-Financial Research",
-      "description": "Conducted a comprehensive Q4 FY26 analysis monitoring macro-critical variables and supply chain health following Strait of Hormuz disruptions. Analyzed Brent Crude spot prices ($83.99), USD/INR rate (\u20b991.63), and India's import cover (42 days). Key finding: every $10/bbl rise widens India's CAD by ~0.5% of GDP. Identified Aviation and Paints as most vulnerable sectors. Macro outlook: Stressed/High Risk.",
+      "description": "Conducted a comprehensive Q4 FY26 analysis monitoring macro-critical variables and supply chain health following Strait of Hormuz disruptions. Key finding: every $10/bbl rise widens India's CAD by ~0.5% of GDP.",
       "tools": ["Perplexity AI", "Canva", "Sensitivity Analysis", "Financial Modeling"],
       "skills": ["Macro-Economic Analysis", "Financial Analysis", "Margin Sensitivity", "Risk Assessment"],
       "image": "project1.png",
-      "link": ""
+      "link": "project1.png"
+    },
+    {
+      "id": 2,
+      "title": "CMA Cost Analysis Tool",
+      "category": "Financial Analysis",
+      "description": "Built a live interactive cost analysis web app using Python and Streamlit. Uploads CSV data, auto-calculates Total Cost and Cost Per Unit, and displays an interactive bar chart.",
+      "tools": ["Python", "Streamlit", "Pandas", "Plotly"],
+      "skills": ["Cost Management", "Data Visualization", "Financial Analysis"],
+      "image": "",
+      "link": "https://uma22-design-cost-tool-app-7axwaw.streamlit.app"
+    },
+    {
+      "id": 3,
+      "title": "Company Financial Analyzer",
+      "category": "Financial Analysis",
+      "description": "AI-powered financial analyzer. Type any company ticker for real-time revenue, profit margins, and stock trends. Upload Annual Report PDF for instant AI insights.",
+      "tools": ["Python", "Streamlit", "yFinance", "Gemini AI", "PyPDF2"],
+      "skills": ["Financial Analysis", "AI Tools", "Data Visualization"],
+      "image": "",
+      "link": "https://finance-tool-srvn9fv9fkrkswt4smsi59.streamlit.app"
     }
   ],
   "education": [
