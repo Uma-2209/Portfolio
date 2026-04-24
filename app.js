@@ -74,6 +74,16 @@ const PORTFOLIO_DATA = {
       "skills": ["Financial Analysis", "AI Tools", "Data Visualization"],
       "image": "project3.jpeg",
       "link": "https://finance-tool-srvn9fv9fkrkswt4smsi59.streamlit.app"
+    },
+    {
+      "id": 4,
+      "title": "Expense Anomaly Detector",
+      "category": "Financial Analysis",
+      "description": "AI-powered finance monitoring tool that flags suspicious expense transactions using rule-based audit checks and Isolation Forest ML. Generates plain-English explanations and exportable audit reports.",
+      "tools": ["Python", "Streamlit", "Scikit-learn", "Plotly", "Pandas"],
+      "skills": ["Anomaly Detection", "Machine Learning", "Internal Audit", "Data Analysis"],
+      "image": "",
+      "link": "https://uma-expense-anomaly.streamlit.app"
     }
   ],
   "education": [
