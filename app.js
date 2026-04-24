@@ -82,7 +82,7 @@ const PORTFOLIO_DATA = {
       "description": "AI-powered finance monitoring tool that flags suspicious expense transactions using rule-based audit checks and Isolation Forest ML. Generates plain-English explanations and exportable audit reports.",
       "tools": ["Python", "Streamlit", "Scikit-learn", "Plotly", "Pandas"],
       "skills": ["Anomaly Detection", "Machine Learning", "Internal Audit", "Data Analysis"],
-      "image": "jpeg",
+      "image": "project4.jpeg",
       "link": "https://uma-expense-anomaly.streamlit.app"
     }
   ],
