@@ -92,7 +92,7 @@ const PORTFOLIO_DATA = {
       "description": "Built and deployed a full-stack FP&A tool using Python and Streamlit. Forecasts future cash balances using Linear Regression, flags liquidity risk periods with automated alerts, and generates executive-level AI commentary via Groq LLM. Features scenario analysis sliders for Best/Base/Worst case planning and downloadable Excel reports.",
       "tools": ["Python", "Streamlit", "Scikit-learn", "Plotly", "Groq AI", "Pandas"],
       "skills": ["Cash Flow Forecasting", "FP&A", "Risk Detection", "Scenario Analysis", "AI Commentary"],
-      "image": "project5.jpeg",
+      "image": "",
       "link": "https://uma-cashflow-ai.streamlit.app"
      }
   ],
