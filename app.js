@@ -93,7 +93,7 @@ const PORTFOLIO_DATA = {
       "tools": ["Python", "Streamlit", "Scikit-learn", "Plotly", "Groq AI", "Pandas"],
       "skills": ["Cash Flow Forecasting", "FP&A", "Risk Detection", "Scenario Analysis", "AI Commentary"],
       "image": "",
-      "link": "https://uma-cashflow-ai.streamlit.app"
+      "link": "https://cashflow-ai-5yvvfihptr2yh6vweckwwu.streamlit.app/"
      }
   ],
   "education": [
