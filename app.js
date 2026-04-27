@@ -114,8 +114,8 @@ const PORTFOLIO_DATA = {
     {
       "degree": "MA Sociology",
       "institution": "Indira Gandhi National Open University (IGNOU)",
-      "period": "Pursuing",
-      "status": "In Progress",
+      "period": "Graduated",
+      "status": "Completed",
       "description": "Studying social systems, research methodology, and organisational behaviour."
     }
   ],
